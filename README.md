@@ -8,7 +8,7 @@ A Machine Learning project to classify news articles as **REAL** or **FAKE** usi
 ---
 
 ## 📊 Dataset
-- Dataset used: `news.csv`
+- Dataset used: `https://www.kaggle.com/datasets/rajatkumar30/fake-news`
 - Shape: 6335 rows × 4 columns
 - Columns:
   - `id`: Unique identifier
