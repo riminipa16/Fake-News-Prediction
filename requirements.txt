@@ -1,0 +1,12 @@
+
+---
+
+
+```python
+requirements = """numpy
+pandas
+scikit-learn
+nltk
+"""
+with open("requirements.txt", "w") as f:
+    f.write(requirements)
