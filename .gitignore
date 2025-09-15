@@ -1,0 +1,8 @@
+gitignore = """__pycache__/
+*.ipynb_checkpoints
+*.pyc
+.env
+*.csv
+"""
+with open(".gitignore", "w") as f:
+    f.write(gitignore)
